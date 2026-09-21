@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wklxb.cn/sitemap.xml
